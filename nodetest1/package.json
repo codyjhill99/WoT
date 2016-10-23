@@ -1,5 +1,5 @@
 {
-  "name": "WoT",
+  "name": "nodetest1",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -13,6 +13,7 @@
     "jade": "~1.11.0",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0",
-    "httpdispatch": ""
+    "mongodb": "^1.4.4",
+    "monk": "^1.0.1"
   }
 }
